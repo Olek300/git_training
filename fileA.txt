@@ -1,1 +1,3 @@
-tekst pliku AAAAAAAAAAAAAAAaaaaaaawwwwwwwww
+tekst pliku A
+zmodifikowany
+hash
